@@ -1,0 +1,13 @@
+name = "Spring"
+uuid = "3a261cb2-1f51-4104-ab45-24fb369be9f2"
+authors = ["amdeld <amdeld@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "^1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
